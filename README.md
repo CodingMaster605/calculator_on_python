@@ -15,3 +15,5 @@ Here is the code:
 ```
 
 You can star this Repo if you like the calculator! 🌟
+
+(The reason I have removed the exponent is because the output was very long when you type big numbers...)
